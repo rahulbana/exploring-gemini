@@ -12,7 +12,6 @@ def create_text(content: str) -> str:
         model="gemini-2.5-flash",
         contents = [content]
     )
-    print(response)
     return response.text
 
 

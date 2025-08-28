@@ -17,7 +17,6 @@ def create_text(prompt: str) -> str:
             temperature=0.7
         )
     )
-    print(response)
     return response.text
 
 
