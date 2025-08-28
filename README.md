@@ -4,10 +4,10 @@
 ### create virtual environment 
 `virtualenv .venv`
 
-### cactivate virtualenv 
+### activate virtualenv 
 `source ./.venv/bin/activate`
 
-### cinstall dependencies 
+### install dependencies 
 pip install -r requirements.txt`
 
 ### How to run 
