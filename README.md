@@ -1,16 +1,16 @@
-# exploring-gemini
-Exploring Gemini
 
-create virtual enviournment
-virtualenv .venv
+# Exploring Gemini
 
-activate virtualenv
-source ./.venv/bin/activate
+### create virtual environment 
+`virtualenv .venv`
 
-install dependencies
-pip install -r requirements.txt
+### cactivate virtualenv 
+`source ./.venv/bin/activate`
 
-How to run
-python create_text.py
+### cinstall dependencies 
+pip install -r requirements.txt`
 
+### How to run 
+`python <file_name>`
 
+`python create_text.py`
