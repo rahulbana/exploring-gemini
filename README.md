@@ -8,7 +8,10 @@
 `source ./.venv/bin/activate`
 
 ### install dependencies 
-pip install -r requirements.txt`
+`pip install -r requirements.txt`
+
+### copy .env.example and create .env and update below variable
+`GEMINI_API_KEY`
 
 ### How to run 
 `python <file_name>`
